@@ -1,0 +1,1 @@
+This project will explore and develop multiple models for detecting bank fraud in credit card payments. The aim is to create several models and evaluate their performance based on appropriate metrics and select the one that works best for future implementation in a real environment.
